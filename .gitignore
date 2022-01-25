@@ -1,4 +1,5 @@
 terraform.tf*
 *.yaml
 *.yml
+.terraform.lock.hcl
 .terraform/
