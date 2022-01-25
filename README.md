@@ -12,7 +12,7 @@ Below is an example `terraform.tfvars` file that you can use in your deployments
 ```ini
 region       = "us-west-2"
 cluster_name = "demo"
-email_id     = "shibilyshukoor@gmail.com"
+email_id     = "user@example.com"
 ```
 
 ## Usage
